@@ -185,6 +185,9 @@ a{
 	padding: 30px 20px 20px;
 	color: rgba(0,0,0,0.8);
 	font-size:18px;
+	
+}
+.extra p {
 	text-indent: 26px;
 	line-height: 36px;
 }
