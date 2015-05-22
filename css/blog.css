@@ -37,12 +37,12 @@ a{
 	top: 18px;
 }
 /*公用的container*/
-.container{
+#wrapper .container{
 	width: 960px;
 	margin: 0 auto;
 }
 @media (max-width: 970px){
-	.container {
+#wrapper .container {
 		width: 96%;
 	}
 }
@@ -107,7 +107,7 @@ a{
     width: 46%;
     margin-left: 2%;
     margin-right: 2%;
-    height: 290px;
+    height: 200px;
   }
 }
 
