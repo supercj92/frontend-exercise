@@ -16,7 +16,7 @@ layout: default
       <div class="title"><a href="article.html">红楼梦</a></div>
       <div class="date">2015年5月5日</div>
     </div>
-    <div class="post"></div>
+    <div class="post"><div class="title"><a href="Bootstrap.html">Bootstrap练习</a></div></div>
     <div class="post"></div>
     <div class="post"></div>
   </div>
